@@ -1,7 +1,9 @@
+import { Wrapper } from './styles'
+
 const Main: React.FC = () => (
-    <main>
+  <Wrapper>
     <h1>React Avançado</h1>
-</main>
+  </Wrapper>
 )
 
 export default Main
